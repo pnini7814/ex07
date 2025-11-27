@@ -6,5 +6,5 @@ b=>{
     alert("b")
 }
 c=>{
-    console.log('This is another arrow function');
+    alert("c")
 }
