@@ -6,5 +6,12 @@ b=>{
     alert("b")
 }
 c=>{
-    alert("c")
+
+    console.log('This is another arrow function');
+}
+
+
+d=>{
+    console.log('This is yet another arrow function');
+ b1
 }
