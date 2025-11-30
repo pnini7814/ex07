@@ -1,6 +1,5 @@
-console.log('This is the index.js file');
-a=>{
-    console.log('This is an arrow function');
+e=>{
+  alert ("e");
 }
 b=>{
     alert("b")
