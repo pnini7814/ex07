@@ -11,5 +11,5 @@ c=>{
 
 
 d=>{
-    console.log('This is yet another arrow function');
+    alert("d");
 }
